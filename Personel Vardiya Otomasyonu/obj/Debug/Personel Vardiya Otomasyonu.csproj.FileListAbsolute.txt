@@ -1,0 +1,51 @@
+C:\Users\Ali\source\repos\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\bin\Debug\Personel Vardiya Otomasyonu.exe.config
+C:\Users\Ali\source\repos\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\bin\Debug\Personel Vardiya Otomasyonu.exe
+C:\Users\Ali\source\repos\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\bin\Debug\Personel Vardiya Otomasyonu.pdb
+C:\Users\Ali\source\repos\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel Vardiya Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel Vardiya Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ali\source\repos\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel_Vardiya_Otomasyonu.Form1.resources
+C:\Users\Ali\source\repos\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel_Vardiya_Otomasyonu.Properties.Resources.resources
+C:\Users\Ali\source\repos\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel_Vardiya_Otomasyonu.YoneticiPanel.resources
+C:\Users\Ali\source\repos\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel Vardiya Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel Vardiya Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel Vardiya Otomasyonu.exe
+C:\Users\Ali\source\repos\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel Vardiya Otomasyonu.pdb
+C:\Users\Ahmet Turan\Desktop\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\bin\Debug\Personel Vardiya Otomasyonu.exe.config
+C:\Users\Ahmet Turan\Desktop\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\bin\Debug\Personel Vardiya Otomasyonu.exe
+C:\Users\Ahmet Turan\Desktop\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\bin\Debug\Personel Vardiya Otomasyonu.pdb
+C:\Users\Ahmet Turan\Desktop\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel Vardiya Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Ahmet Turan\Desktop\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel Vardiya Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmet Turan\Desktop\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel_Vardiya_Otomasyonu.Form1.resources
+C:\Users\Ahmet Turan\Desktop\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel_Vardiya_Otomasyonu.Properties.Resources.resources
+C:\Users\Ahmet Turan\Desktop\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel_Vardiya_Otomasyonu.YoneticiPanel.resources
+C:\Users\Ahmet Turan\Desktop\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel Vardiya Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Ahmet Turan\Desktop\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel Vardiya Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Turan\Desktop\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel Vardiya Otomasyonu.exe
+C:\Users\Ahmet Turan\Desktop\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel Vardiya Otomasyonu.pdb
+C:\Users\Ahmet Turan\Desktop\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel_Vardiya_Otomasyonu.NobetIslemleri.resources
+C:\Users\Ahmet Turan\Desktop\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ahmet Turan\Desktop\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\bin\Debug\itextsharp.dll
+C:\Users\Ahmet Turan\Desktop\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\bin\Debug\itextsharp.xml
+C:\Users\Ahmet Turan\Desktop\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel Vardiya Otomasyonu.csproj.CopyComplete
+C:\Users\Ahmet Turan\Desktop\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel_Vardiya_Otomasyonu.Giris.resources
+C:\Users\Ahmet Turan\Desktop\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel_Vardiya_Otomasyonu.KullaniciPanel.resources
+C:\Users\Ahmet Turan\Desktop\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel_Vardiya_Otomasyonu.UnvanIslemleri.resources
+C:\Users\user\OneDrive\Masaüstü\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel Vardiya Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel Vardiya Otomasyonu.exe
+C:\Users\user\OneDrive\Masaüstü\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel Vardiya Otomasyonu.pdb
+C:\Users\user\OneDrive\Masaüstü\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\bin\Debug\Personel Vardiya Otomasyonu.exe.config
+C:\Users\user\OneDrive\Masaüstü\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\bin\Debug\Personel Vardiya Otomasyonu.exe
+C:\Users\user\OneDrive\Masaüstü\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\bin\Debug\Personel Vardiya Otomasyonu.pdb
+C:\Users\user\OneDrive\Masaüstü\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\OneDrive\Masaüstü\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\bin\Debug\itextsharp.dll
+C:\Users\user\OneDrive\Masaüstü\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\bin\Debug\itextsharp.xml
+C:\Users\user\OneDrive\Masaüstü\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel_Vardiya_Otomasyonu.Form1.resources
+C:\Users\user\OneDrive\Masaüstü\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel_Vardiya_Otomasyonu.Giris.resources
+C:\Users\user\OneDrive\Masaüstü\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel_Vardiya_Otomasyonu.KullaniciPanel.resources
+C:\Users\user\OneDrive\Masaüstü\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel_Vardiya_Otomasyonu.NobetIslemleri.resources
+C:\Users\user\OneDrive\Masaüstü\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel_Vardiya_Otomasyonu.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel_Vardiya_Otomasyonu.UnvanIslemleri.resources
+C:\Users\user\OneDrive\Masaüstü\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel_Vardiya_Otomasyonu.YoneticiPanel.resources
+C:\Users\user\OneDrive\Masaüstü\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel Vardiya Otomasyonu.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel Vardiya Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\Personel Vardiya Otomasyonu\obj\Debug\Personel Vardiya Otomasyonu.csproj.CopyComplete
